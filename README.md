@@ -1,0 +1,1 @@
+# bug-info-in-nucrses-6.02
